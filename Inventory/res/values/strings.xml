@@ -21,6 +21,6 @@
     <string name="field_select_button">Set Fields</string>
     <string name="entry_directions">Enter the product information:</string>
     <string name="greeting">Easy Inventory System</string>
-    <drawable />
+
 
 </resources>
