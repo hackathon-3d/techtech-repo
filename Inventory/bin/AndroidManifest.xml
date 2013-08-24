@@ -26,6 +26,7 @@
         <activity android:name="InventoryChange"></activity>
         <activity android:name="InventoryCreate"></activity>
         <activity android:name="InventoryMenu"></activity>
+        <activity android:name="DatabaseHelper"></activity>
     </application>
 
 </manifest>

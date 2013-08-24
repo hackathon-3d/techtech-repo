@@ -3,12 +3,12 @@ package com.tech.inventory;
 import android.os.Bundle;
 import android.view.Menu;
 
-public class InventorySplash extends Inventory {
+public class CreateChoiceScreen extends Inventory {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.newsplash);
+		setContentView(R.layout.change);
 	}
 
 	@Override
