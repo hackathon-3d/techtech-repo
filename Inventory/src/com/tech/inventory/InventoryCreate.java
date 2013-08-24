@@ -1,15 +1,14 @@
 package com.tech.inventory;
 
 import android.os.Bundle;
-import android.app.Activity;
 import android.view.Menu;
 
-public class Inventory extends Activity {
+public class InventoryCreate extends Inventory {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.splash);
+		setContentView(R.layout.create);
 	}
 
 	@Override

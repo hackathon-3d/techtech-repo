@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.tech.inventory.Inventory"
+            android:name="com.tech.inventory.InventorySplash"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,6 +22,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="Inventory"></activity>
+        <activity android:name="InventoryChange"></activity>
+        <activity android:name="InventoryCreate"></activity>
+        <activity android:name="InventoryMenu"></activity>
     </application>
 
 </manifest>
