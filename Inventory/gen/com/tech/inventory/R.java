@@ -34,7 +34,7 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a000e;
+        public static final int action_settings=0x7f0a0012;
         public static final int button2=0x7f0a000d;
         public static final int button3=0x7f0a000c;
         public static final int checkBox1=0x7f0a0001;
@@ -46,6 +46,10 @@ public final class R {
         public static final int checkBox7=0x7f0a0007;
         public static final int setFieldsButton=0x7f0a0008;
         public static final int setupButton=0x7f0a000b;
+        public static final int tableRow1=0x7f0a000e;
+        public static final int tableRow2=0x7f0a000f;
+        public static final int tableRow3=0x7f0a0010;
+        public static final int tableRow4=0x7f0a0011;
         public static final int textView1=0x7f0a0000;
         public static final int textView2=0x7f0a0009;
         public static final int textView3=0x7f0a000a;
@@ -69,6 +73,7 @@ public final class R {
         public static final int description=0x7f06000f;
         public static final int entry_directions=0x7f060011;
         public static final int field_select_button=0x7f060010;
+        public static final int greeting=0x7f060012;
         public static final int hello=0x7f060003;
         public static final int id_number=0x7f06000a;
         public static final int inventory=0x7f060005;
